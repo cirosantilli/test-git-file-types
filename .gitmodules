@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/cirosantilli/hello-c
+[submodule "dir/submodule"]
+	path = dir/submodule
+	url = https://github.com/cirosantilli/hello-c
